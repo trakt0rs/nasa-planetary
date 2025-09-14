@@ -35,7 +35,7 @@ Redux is great for large apps with lots of global state, but this project doesnâ
 ### 1. Clone the repo
 ```bash
 git clone https://github.com/trakt0rs/nasa-planetary.git
-cd nasa-apod-explorer
+cd nasa-planetary
 ```
 
 ### 2. Install & Run
