@@ -3,7 +3,7 @@
 A React + TypeScript web application that uses the **NASA Astronomy Picture of the Day (APOD) API** to explore space imagery.  
 Built with **Material UI** for styling, it provides two interactive pages: a simple planetary viewer and a fun guessing game.
 
-**! The api key is for demo puposes only !**
+**! The api key is for demo purposes only !**
 
 ## Features
 
@@ -32,7 +32,7 @@ Redux is great for large apps with lots of global state, but this project doesn�
 - State is **local** (`loading`, `image`).  
 - No complex data-sharing across many components.  
 
-## ⚙️ How to Build & Run
+## How to Build & Run
 
 ### 1. Clone the repo
 ```bash
