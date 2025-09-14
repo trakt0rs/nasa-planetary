@@ -3,6 +3,8 @@
 A React + TypeScript web application that uses the **NASA Astronomy Picture of the Day (APOD) API** to explore space imagery.  
 Built with **Material UI** for styling, it provides two interactive pages: a simple planetary viewer and a fun guessing game.
 
+**! The api key is for demo puposes only !**
+
 ## Features
 
 ### 1. Planetary Page
