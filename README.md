@@ -26,12 +26,6 @@ Built with **Material UI** for styling, it provides two interactive pages: a sim
 - **Material UI (MUI)**
 - **NASA APOD API**
 
-## Why Redux is Not Used
-
-Redux is great for large apps with lots of global state, but this project doesn’t need it:
-- State is **local** (`loading`, `image`).  
-- No complex data-sharing across many components.  
-
 ## How to Build & Run
 
 ### 1. Clone the repo
